@@ -1,0 +1,26 @@
+.jumbotron {
+    padding-top: 7rem;
+    background-color: grey;
+}
+
+#project {
+    background-color: grey;
+}
+
+section {
+    padding-top: 6rem;
+}
+
+
+/*mykeboard section*/
+
+.keyboard-box {
+    background-color: blue;
+    border-radius: 10px;
+    height: 500px;
+}
+
+#about {
+    background-color: black;
+    color: white;
+}
